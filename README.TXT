@@ -1,9 +1,4 @@
-Student name: Ibtasum Iktadar (Skype name: iiktadar)
-Student number: 150233473
 
-LEVEL YOU WISH THE MINI-PROJECT TO BE MARKED FOR: 3 
-
-Now complete the statements below for each level you wish to be marked. Replace all text in square brackets.
 
 LEVEL THREE
 
