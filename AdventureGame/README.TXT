@@ -1,11 +1,6 @@
-Student name: Ibtasum Iktadar (Skype name: iiktadar)
-Student number: 150233473
+Student name: Ibtasum Iktadar 
 
-LEVEL YOU WISH THE MINI-PROJECT TO BE MARKED FOR: 3 
 
-Now complete the statements below for each level you wish to be marked. Replace all text in square brackets.
-
-LEVEL THREE
 
 [After a button is pressed, I have a different Handlers, such as TitleHandler, inventoryHandler and choiceHandler that implements the interface ActionListener to perform different action depending on the button that is being pressed. It overrides the actionPerformed method in the interface ActionListener, and uses decision statements to perform different actions. This Handler are then initialised in the GUI class and is set to the buttons that interacts with the user by using addActionListerner(handlerName).
 -If you look at UserInterface line 710, you can find TitleHandler that handles the Start and Continue button after first opening the UserInterface GUI. Line 716-728, uses Switch cases (I know we were not taught this, but I find it easier to use this sometiems than if-else statement, and in this occasion, switch cases was more efficient and easier to write, and made the code more cleaner), to perform different actions.
